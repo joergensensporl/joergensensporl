@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#0b0b0f"/>
+<circle cx="520" cy="90" r="60" fill="#ff4fa3" opacity=".12"/>
+
+<path d="M320 115l120 45v90c0 72-48 128-120 165-72-37-120-93-120-165v-90z" fill="#121217" stroke="#ff4fa3" stroke-width="7"/>
+<path d="M275 250l30 30 65-70" stroke="#fff" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#ffffff">Cybersecurity</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#0b0b0f"/>
+<circle cx="520" cy="90" r="60" fill="#ff4fa3" opacity=".12"/>
+
+<rect x="165" y="135" width="310" height="210" rx="18" fill="#111116" stroke="#ff4fa3" stroke-width="4"/>
+<rect x="195" y="175" width="250" height="30" rx="8" fill="#22222a"/>
+<rect x="195" y="225" width="120" height="90" rx="12" fill="#ff4fa3"/>
+<rect x="335" y="225" width="110" height="35" rx="10" fill="#fff"/>
+<rect x="335" y="278" width="110" height="12" rx="6" fill="#69616f"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#ffffff">Web Development</text>
+</svg>

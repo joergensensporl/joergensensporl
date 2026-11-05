@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#0b0b0f"/>
+<circle cx="520" cy="90" r="60" fill="#ff4fa3" opacity=".12"/>
+
+<rect x="170" y="120" width="300" height="240" rx="20" fill="#111116" stroke="#ff4fa3" stroke-width="4"/>
+<path d="M215 180l45 40-45 40M425 180l-45 40 45 40" stroke="#ff4fa3" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="285" y="280" width="70" height="12" rx="6" fill="#fff"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#ffffff">Custom Software</text>
+</svg>
